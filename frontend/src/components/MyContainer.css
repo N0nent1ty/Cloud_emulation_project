@@ -1,0 +1,42 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.fix-Height-Btn{
+    display:block;
+    width:100%;
+    height:70px;
+    background-color:#475;
+    overflow:scroll;
+    }
+
+.div-for-VM{
+        height: 700px;
+        width: 100%;
+        background-color: rgb(241, 241, 247);
+        border-style: solid;
+}
+
+.div-for-VM-ID{
+    background-color: rgb(17, 39, 14);
+    color:azure;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.div-for-VM-setting{
+
+    max-width : 80%;
+    margin: 30px;
+}
+
+.div-for-terminal{
+    max-width:100%;
+    background-color: black;
+    color:blanchedalmond;
+    margin: 30px;
+    height: 300px;
+    overflow:scroll;
+    text-align: left
+}
